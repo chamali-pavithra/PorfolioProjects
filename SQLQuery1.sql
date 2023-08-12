@@ -1,4 +1,4 @@
---This quary is bASed on the covid data sourced FROM ourworldindata.org site. The used data sheet include details LIKE, covid cASes,
+--This quary is based on the covid data sourced FROM ourworldindata.org site. The used data sheet include details LIKE, covid cASes,
 --number of deaths and vaccination data.
 
 SELECT *
