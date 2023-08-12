@@ -1,4 +1,4 @@
-
+-kk
 select *
 from PortfolioProject_1..covid_deaths
 order by 3,4
